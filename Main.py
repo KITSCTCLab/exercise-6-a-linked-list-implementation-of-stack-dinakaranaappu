@@ -7,7 +7,7 @@ class Node:
 class Stack:
   def __init__(self):
     self.head = None
-
+ 
   def push(self, data) -> None:
     # Write your code here
 
